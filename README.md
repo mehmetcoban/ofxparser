@@ -1,7 +1,7 @@
 OFX Parser
 =================
 
-[![Build Status](https://travis-ci.org/mehmetcoban/ofxparser.svg?branch=master)](https://travis-ci.org/mehmetcoban/ofxparser) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/mehmetcoban/ofxparser/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/mehmetcoban/ofxparser/?branch=master) [![Code Coverage](https://scrutinizer-ci.com/g/mehmetcoban/ofxparser/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/mehmetcoban/ofxparser/?branch=master) [![Latest Stable Version](https://poser.pugx.org/mehmetcoban/ofxparser/v/stable)](https://packagist.org/packages/mehmetcoban/ofxparser) [![License](https://poser.pugx.org/mehmetcoban/ofxparser/license)](https://packagist.org/packages/mehmetcoban/ofxparser)
+[![Build Status](https://travis-ci.org/mehmetcoban/ofxparser.svg?branch=master)](https://travis-ci.org/mehmetcoban/ofxparser) [![Latest Stable Version](https://poser.pugx.org/mehmetcoban/ofxparser/v/stable)](https://packagist.org/packages/mehmetcoban/ofxparser) [![License](https://poser.pugx.org/mehmetcoban/ofxparser/license)](https://packagist.org/packages/mehmetcoban/ofxparser)
 
 OFX Parser is a PHP library designed to parse an OFX file downloaded from a financial institution into simple PHP objects. 
 
