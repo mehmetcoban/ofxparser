@@ -1,0 +1,52 @@
+{
+    "name": "mehmetcoban/ofxparser",
+    "description": "Simple OFX file parser",
+    "keywords": [
+        "ofx",
+        "open financial exchange",
+        "finance",
+        "parser"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mehmet Çoban",
+            "email": "mehmetcoban8489@gmail.com"
+        },
+        {
+            "name": "Guillaume Bailleul",
+            "email": "contact@guillaume-bailleul.fr",
+            "homepage": "http://www.guillaume-bailleul.fr"
+        },
+        {
+            "name": "Jacques Marneweck",
+            "email": "jacques@siberia.co.za",
+            "homepage": "http://www.siberia.co.za/"
+        },
+        {
+            "name": "James Titcumb",
+            "email": "hello@jamestitcumb.com",
+            "homepage": "http://www.jamestitcumb.com/"
+        },
+        {
+            "name": "Oliver Lowe",
+            "email": "mrtriangle@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "~5.6 || ~7.0"
+    },
+    "require-dev": {
+        "ergebnis/composer-normalize": "^2.13",
+        "phpunit/phpunit": "~5.5",
+        "squizlabs/php_codesniffer": "~2.6"
+    },
+    "autoload": {
+        "psr-0": {
+            "OfxParser": "lib/"
+        }
+    },
+    "replaces": [
+        "asgrim/ofxparser"
+    ]
+}
