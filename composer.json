@@ -38,7 +38,7 @@
     },
     "require-dev": {
         "ergebnis/composer-normalize": "^2.13",
-        "phpunit/phpunit": "~5.5",
+        "phpunit/phpunit": "~5.5|~9.3.3",
         "squizlabs/php_codesniffer": "~2.6"
     },
     "autoload": {
